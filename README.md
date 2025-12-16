@@ -7,6 +7,7 @@
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000?logo=spring&logoColor=white&labelColor=000)
 ![Stripe](https://img.shields.io/badge/-Stripe-000?logo=stripe&logoColor=white&labelColor=000)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?logo=raspberry-pi&logoColor=white&labelColor=000)
+[![License](https://img.shields.io/badge/License-MIT-000?logo=github&logoColor=white&labelColor=black)](LICENSE)
 
 A progressive web application for the city of Iași that helps drivers find free parking spots. The front end is built with React (TypeScript), the back end is a Spring Boot REST API, and a Raspberry Pi module uses a camera to detect which spots are occupied and publish data to the system.
 
